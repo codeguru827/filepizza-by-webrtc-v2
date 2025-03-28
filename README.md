@@ -10,7 +10,14 @@
 
 ```yaml
 node.js: 22.14.0
+npm: 10.9.2
 pnpm: 10.7.0
+```
+
+Install `pnpm`:
+
+```bash
+$ npm i -g pnpm
 ```
 
 ```yaml
@@ -22,6 +29,8 @@ TailwindCSS: ^3.4.10
 PeerJS for WebRTC: ^1.5.4
 ioredis for Redis: ^5.4.2
 ```
+
+Install `Redis` by referring this [tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-22-04)
 
 ## Getting Started
 
