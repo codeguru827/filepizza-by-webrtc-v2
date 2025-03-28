@@ -63,6 +63,8 @@ $ pnpm docker:down
 - Streaming downloads with a Service Worker.
 - Out-of-process storage of server state using Redis.
 
+![FilePizza Terms](screenshot.png)
+
 ## FAQ
 
 **How are my files sent?**
