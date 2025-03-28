@@ -41,6 +41,8 @@ Install `Docker` by referring this [tutorial](https://www.digitalocean.com/commu
 $ git clone https://github.com/codeguru827/filepizza-by-webrtc-v2.git
 $ pnpm install
 $ pnpm dev
+## visit http://localhost:3000/
+
 $ pnpm build
 $ pnpm start
 
