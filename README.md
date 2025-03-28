@@ -32,6 +32,8 @@ ioredis for Redis: ^5.4.2
 
 Install `Redis` by referring this [tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-22-04)
 
+Install `Docker` by referring this [tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04)
+
 ## Getting Started
 
 ```bash
